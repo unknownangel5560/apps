@@ -1,0 +1,58 @@
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "build": "23",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+23/app-release.apk",
+      "message": "New Download Token"
+    },
+    {
+      "version": "1.0.0",
+      "build": "22",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+22/app-release.apk",
+      "message": "Token"
+    },
+    {
+      "version": "1.0.0",
+      "build": "21",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+21/app-release.apk",
+      "message": "Null fixes"
+    },
+    {
+      "version": "1.0.0",
+      "build": "20",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+20/app-release.apk",
+      "message": "Merge branch 'main' of https://github.com/unknownangel5560/yodesi"
+    },
+    {
+      "version": "1.0.0",
+      "build": "19",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+19/app-release.apk",
+      "message": "Updated keystore"
+    },
+    {
+      "version": "1.0.0",
+      "build": "18",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+18/app-release.apk",
+      "message": "Updated version"
+    },
+    {
+      "version": "1.0.0",
+      "build": "18",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+17/app-release.apk",
+      "message": "Updated workflow"
+    },
+    {
+      "version": "1.0.0",
+      "build": "16",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+16/app-release.apk",
+      "message": "Updated key"
+    },
+    {
+      "version": "1.0.0",
+      "build": "15",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+15/app-release.apk",
+      "message": "Updated text"
+    }
+  ]
+}
