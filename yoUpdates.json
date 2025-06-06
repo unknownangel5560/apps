@@ -2,6 +2,12 @@
   "versions": [
     {
       "version": "1.0.0",
+      "build": "24",
+      "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+24/app-release.apk",
+      "message": "Updated bengali channels"
+    },
+    {
+      "version": "1.0.0",
       "build": "23",
       "url": "https://github.com/unknownangel5560/yodesi/releases/download/1.0.0+23/app-release.apk",
       "message": "New Download Token"
